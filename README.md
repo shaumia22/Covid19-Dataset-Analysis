@@ -1,9 +1,9 @@
-# Covid19-Dataset-Analysis
+# COVID-19 Case Analysis with Power BI
 
-### About the Project
+## About the Project
 This project focuses on analyzing a COVID-19 dataset using Power BI to gain insights into case distributions across continents and countries. The dataset includes information such as total case count, median age, and new case counts.
 
-### Purpose of the Project
+## Purpose of the Project
 * The purpose of this project is to:
 * Understand Global Impact: Identify which countries have the highest COVID-19 case counts
 * Explore Demographic Trends: Examine correlations between median age and case numbers
